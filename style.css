@@ -1,9 +1,42 @@
-#total{
-    width:1000px;
-    margin:0 auto;
-    
+body
+{
+    margin:0;
+    Font-family: 'tahoma ms';
 }
 
-#total h1{
+#total
+{
+    width:1000px;
+    margin:0 auto;
+}
+#Logo 
+{
+text-align: center;
+margin-top:3%;
+}
+nav
+{
+    text-align: center;
+    background-color:black;
+    padding: 1%;
+    margin-top:2%;
+}
+
+nav a
+{
+    color:#fff;
+     margin-left:6%;
+    text-decoration: none;
+}
+#Livro
+{
+margin-top:0.3%; 
     text-align:center;
+}
+
+    
+nav a:hover
+{
+    text-decoration:underline;
+
 }
